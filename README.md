@@ -152,14 +152,6 @@ All departments successfully communicated **only through routed paths**, confirm
 ✔ Real hardware and VM integration  
 ✔ Fully documented and tested deployment  
 
-## 🚀 Use Cases
-
-- Network Administration laboratories  
-- Enterprise network design demonstrations  
-- VLAN and routing training environments  
-- Active Directory and Group Policy practice  
-- Cisco Router-on-a-Stick reference implementation  
-
 ## 📚 Course Information
 **Course:** CMPE 351 – Network Administration    
 **Date:** January 2026  
